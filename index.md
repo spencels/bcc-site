@@ -2,5 +2,137 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
+title: "Boulder Couch Crash 2018"
+subtitle: "July 19–22, 2018"
 ---
+After a five-year hiatus the Boulder Couch Crash is back, so pack your
+Chacos, puffy, some plaid and sunscreen, and visit the happiest city in the
+U.S.!
+
+### What is a couch crash?
+
+A couch crash is a weekend filled with activities organized by a local
+Couchsurfing community. The activities show off the local city to the global
+CS community. A couch crash is an excellent way to get to know a city and
+connect with amazing Couchsurfers.
+
+### What does the Boulder Couch Crash have to offer?
+
+We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on
+some of the 150+ miles of trails, and drink beer at some of Boulder’s 20+
+breweries. And did we mention blue skies, creek tubing and legal marijuana?
+
+Avoid FOMO.  
+EMAIL FORM
+
+Check out our tentative schedule below. Things may change leading up to the
+event so be sure to check back!
+
+#### THURSDAY JULY 19
+11 am Early Bird Day Trip to Rocky Mountain National Park
+7 pm Happy Thursday Bike Ride
+
+#### FRIDAY JULY 20
+11 am–4 pm Biking Brewery Tour
+1–3 pm National Center for Atmospheric Research Visit/Short Hike
+6 pm–late Welcome Party
+
+#### SATURDAY JULY 21
+9 am–3 pm Long Hike
+9–11 am Farmers’ Market Brunch
+Noon–3 pm Boulder Creek Tubing
+Noon–3 pm B180 Bicycle Tour of Boulder
+1–2:30 pm Celestial Seasonings Tea Factory Tour
+5 pm–late Happy Hour Dinner/Art Festival/Downtown Bar Crawl
+
+#### SUNDAY JULY 22
+10 am–2 pm Big Brunch Picnic in the Park
+Afternoon Dessert Tour
+Afternoon Yoga
+7 pm Comedy Show
+
+#### Yet to be scheduled, but we’ll squeeze ’em in somewhere:
+Laser light show at the Fiske Planetarium
+Dispensary visit/tour
+Beer tasting/tour at Avery Brewing
+
+### When is it?
+
+You’re welcome to pop into town any time you like, but our organized events
+will be taking place Thursday, July 19, 2018 through Sunday, July 22, 2018.
+The itinerary includes an early bird field trip to Rocky Mountain National
+Park on Thursday, we hope you can make it!
+
+### How do we stay in touch?
+
+RSVP to the official Couchsurfing event
+
+Give us your email. Do it.
+ENTER EMAIL
+
+Join the Boulder Couch Crash Whatsapp group to stay in touch during the events.
+
+### How do I get to Boulder?
+
+Depending on where you’re coming from, you can walk, run, bike, hitchhike,
+drive, or fly. But seriously, book your flight to Denver International
+Airport and then catch the bus to Boulder. The AB bus is the cheapest and
+simplest way to get from the airport to Boulder; it runs approximately every
+half hour but you can check the full schedule here.
+
+When catching the bus from the airport, head to the DEN Transit Center — go
+to the south end of the Jeppesen Terminal, exit through the glass doors, and
+take the escalator to the ground level. It’s located next to the Westin.
+
+Look for the AB/AB1/AB2 bus to Boulder. One-way fare is $9 and you must have
+exact change. The bus will take about an hour. If you get off at the last
+stop, you’ll be here:
+
+<iframe
+    class="map-embed"
+    style="border: 0;"
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24446.906747955483!2d-105.28140612224962!3d40.011499976028574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876bec28bedcb659%3A0x5070a558deeeb1ed!2sDowntown+Boulder+Station!5e0!3m2!1sen!2sus!4v1518495355476"
+    width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen">
+  <span
+      data-mce-type="bookmark"
+      style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;"
+      class="mce_SELRES_start"></span>
+</iframe> 
+
+### How do I get around Boulder?
+Our little town is incredibly bike- and pedestrian-friendly!
+
+#### Bike
+We have over 300 miles of dedicated bikeways to get you where you need to go, making a bicycle the preferred transportation method of Boulderites no matter what the weather. You can rent bikes from places like University Cycle or Full Cycle starting at $20 per day. If you want something cheaper, Boulder BCycle has 43 stations and 300 bikes in town with various fee structures.
+
+We’re also working on a local “bike library” for the couch crash, so check back for details.
+
+#### Bus
+We have about 12 local bus routes that run through town. A local single day pass costs $5.20. The bus is convenient and frequently used by locals. Check the RTD website for schedules and routes, or use Google Maps for equally accurate information, including real-time bus locations.
+
+#### Ride shares
+Uber and Lyft rides are readily available in Boulder. Check both apps if you want the cheapest price. Most rides within Boulder will be $12 or less.
+
+#### Car
+Depending on afternoon traffic, driving could take longer than biking. Plus, if you want to park near downtown, you’ll have to pay for a garage or feed the meter every two hours. Driving is not encouraged, especially if you want to enjoy 7.5% IPAs or legal marijuana. That said, if you plan to visit anywhere outside of Boulder aside from Denver, the most convenient way to get there is by car.
+
+### Organizers
+
+{% capture content %}
+  Spencer Stephens is a kind individual whose hobbies include hosting couch crashes and making websites for free.
+
+  Second paragraph.
+{% endcapture %}
+{% include organizer.html
+     name="Spencer 2"
+     image="/imageuploads/28164383_10215322765563537_4979332061221184867_o.jpg"
+     content=content %}
+
+{% capture content %}
+  Spencer 2 is a hipster who likes woodworking and fucking Spencer 1's girlfriend.
+{% endcapture %}
+{% include organizer.html
+     name="Spencer 2"
+     image="/imageuploads/28164383_10215322765563537_4979332061221184867_o.jpg"
+     content=content %}

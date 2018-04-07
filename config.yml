@@ -12,5 +12,11 @@ media_folder: "imageuploads"
 # left sidebar of the Content page of the editor UI, in the order they are
 # entered into config.yml.
 collections:
-  - name: firstcollection
+  - name: posts
+    label: Posts
     folder: "_posts"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
