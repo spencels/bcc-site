@@ -4,7 +4,7 @@ backend:
   repo: spencels/bcc-site
 
 # Uploads folder
-media_folder: "imageuploads"
+media_folder: "static/images/uploads"
 
 # The collections setting is the heart of your Netlify CMS configuration, as it
 # determines how content types and editor fields in the UI generate files and
