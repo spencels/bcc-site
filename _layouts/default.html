@@ -4,6 +4,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 
+<script>
+  // Change base URL if we're on GitHub pages.
+  if (window.location.host.includes('spencels.github.io')) {
+    var url = location.protocol + '//' + location.host + '/bcc-site';
+    document.write('<base href="' + url + '">');
+  }
+</script>
+
 <title>{{ page.title }}</title>
 <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
 
