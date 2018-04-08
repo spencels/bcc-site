@@ -1,10 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
-title: "Boulder Couch Crash 2018"
-subtitle: "July 19–22, 2018"
+title: Boulder Couch Crash 2018
+subtitle: 'July 19–22, 2018'
 ---
 After a five-year hiatus the Boulder Couch Crash is back, so pack your
 Chacos, puffy, some plaid and sunscreen, and visit the happiest city in the
@@ -119,20 +115,16 @@ Depending on afternoon traffic, driving could take longer than biking. Plus, if 
 
 ### Organizers {#organizers}
 
-{% capture content %}
-  Spencer Stephens is a kind individual whose hobbies include hosting couch crashes and making websites for free.
+<div class="organizer">
+  <img src="/imageuploads/28164383_10215322765563537_4979332061221184867_o.jpg" alt="Spencer 1">
+  <div class="organizer-content">
+    <p>Spencer Stephens is a kind individual whose hobbies include hosting couch crashes and making websites for free.</p>
+  </div>
+</div>
 
-  Second paragraph.
-{% endcapture %}
-{% include organizer.html
-     name="Spencer 2"
-     image="/imageuploads/28164383_10215322765563537_4979332061221184867_o.jpg"
-     content=content %}
-
-{% capture content %}
-  Spencer 2 is a hipster who likes woodworking and fucking Spencer 1's girlfriend.
-{% endcapture %}
-{% include organizer.html
-     name="Spencer 2"
-     image="/imageuploads/28164383_10215322765563537_4979332061221184867_o.jpg"
-     content=content %}
+<div class="organizer">
+  <img src="/imageuploads/28164383_10215322765563537_4979332061221184867_o.jpg" alt="Spencer 2">
+  <div class="organizer-content">
+    <p>Spencer 2 is a hipster who likes woodworking and fucking Spencer 1's girlfriend.</p>
+  </div>
+</div>
