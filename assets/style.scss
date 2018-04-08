@@ -14,39 +14,44 @@
 }
 
 body {
-  margin: 0;
+  margin: 0 auto !important;
+  -webkit-text-size-adjust: 100%;  /* Prevent iOS from zooming on rotate. */
 }
 
 main {
-  margin: 0 144px;
+  margin: 0 auto;
+  max-width: 932px;
+  padding: 0 16px;
 }
 
 .content p {
-  margin-top: 0;
   margin-bottom: 16px;
+  margin-top: 0;
 }
 
 hr {
-  margin: 48px 0;
-  border: 0;
   background-color: gray;
+  border: 0;
   height: 1px;
+  margin: 48px 0;
 }
 
 .header-image {
-  width: 100%;
-  height: 360px;
   background-image: url("/assets/flatirons.jpg");
   background-size: cover;
+  height: 360px;
+  width: 100%;
 }
 
+/* Title */
 h1 {
-  text-align: center;
-  font-size: 32px;
-  text-transform: uppercase;
   color: black;
+  font-size: 32px;
+  text-align: center;
+  text-transform: uppercase;
 }
 
+/* Subtitle */
 h2 {
   color: black;
   font-size: 28px;
@@ -70,7 +75,10 @@ h4 {
 }
 
 .map-embed {
-  margin: 0 auto;
+  display: block;
+  margin: 0 auto 16px auto;
+  max-width: 600px;
+  width: 100%;
 }
 
 .organizer {

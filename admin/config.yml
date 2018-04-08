@@ -17,6 +17,7 @@ collections:
     folder: "."
     create: true
     fields:
+      - {label: "Layout", name: "layout", widget: "string", default: "default"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

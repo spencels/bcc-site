@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Boulder Couch Crash 2018
 subtitle: 'July 19–22, 2018'
 ---
