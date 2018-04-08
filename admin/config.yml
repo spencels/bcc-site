@@ -14,7 +14,7 @@ media_folder: "imageuploads"
 collections:
   - name: pages
     label: Pages
-    folder: ""
+    folder: "."
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}

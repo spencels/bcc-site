@@ -17,7 +17,7 @@ Couchsurfing community. The activities show off the local city to the global
 CS community. A couch crash is an excellent way to get to know a city and
 connect with amazing Couchsurfers.
 
-### What does the Boulder Couch Crash have to offer?
+### What does the Boulder Couch Crash have to offer? {#schedule}
 
 We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on
 some of the 150+ miles of trails, and drink beer at some of Boulder’s 20+
@@ -73,7 +73,7 @@ ENTER EMAIL
 
 Join the Boulder Couch Crash Whatsapp group to stay in touch during the events.
 
-### How do I get to Boulder?
+### How do I get to Boulder? {#getting-to-boulder}
 
 Depending on where you’re coming from, you can walk, run, bike, hitchhike,
 drive, or fly. But seriously, book your flight to Denver International
@@ -117,7 +117,7 @@ Uber and Lyft rides are readily available in Boulder. Check both apps if you wan
 #### Car
 Depending on afternoon traffic, driving could take longer than biking. Plus, if you want to park near downtown, you’ll have to pay for a garage or feed the meter every two hours. Driving is not encouraged, especially if you want to enjoy 7.5% IPAs or legal marijuana. That said, if you plan to visit anywhere outside of Boulder aside from Denver, the most convenient way to get there is by car.
 
-### Organizers
+### Organizers {#organizers}
 
 {% capture content %}
   Spencer Stephens is a kind individual whose hobbies include hosting couch crashes and making websites for free.
