@@ -5,23 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Boulder Couch Crash 2018</title>
   <script>
-    // (function() {
-    // const host = window.location.host;
-    // // Change base URL if we're on GitHub pages.
-    // if (host != 'bcc-site.netlify.com' && host != 'localhost'
-    //     && host != '127.0.0.1') {
-    //   window.location = 'https://bcc-site.netlify.com/admin';
-    // }
-    // })();
+    (function() {
+    const host = window.location.host;
+    // Change base URL if we're on GitHub pages.
+    if (host != 'bcc-site.netlify.com' && host != 'localhost'
+        && host != '127.0.0.1') {
+      window.location = 'https://bcc-site.netlify.com/admin';
+    }
+    })();
   </script>
 
   <!-- Include the styles for the Netlify CMS UI, after your own styles -->
-  <link rel="stylesheet" href="/admin/cms.css" />
+  <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.css" />
 
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="/admin/cms.js"></script>
+  <script src="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.js"></script>
   <script>
     (function() {
     if (!CMS) {
