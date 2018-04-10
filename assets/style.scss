@@ -6,10 +6,11 @@
  * Version: 0.1
  */
 
+ $mainTextColor: #666666;
+
  * {
   box-sizing: border-box;
   font-family: sans-serif;
-  color: #666666;
   font-size: 16px;
 }
 
@@ -24,9 +25,10 @@ main {
   padding: 0 16px;
 }
 
-.content p {
+.content > p {
   margin-bottom: 16px;
   margin-top: 0;
+  color: $mainTextColor;
 }
 
 hr {
@@ -72,6 +74,63 @@ h4 {
   margin-bottom: 0;
   color: #666666;
   font-weight: bold;
+}
+
+.contact-methods {
+  margin-top: 16px;
+  margin-bottom: 32px;
+}
+
+.contact-method {
+ align-items: center;
+  display: flex;
+  margin: 16px 0;
+}
+
+
+.contact-method .index {
+  $contactMethodSize: 28px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2pt black;
+  color: black;
+  flex: 0 0 auto;
+  font-size: 24px;
+  font-weight: bold;
+  height: $contactMethodSize;
+  line-height: $contactMethodSize;
+  $defaultMargin: 40px - $contactMethodSize;
+  margin: $defaultMargin ($defaultMargin + 8px) $defaultMargin $defaultMargin;
+  text-align: center;
+  user-select: none;
+  vertical-align: middle;
+  width: $contactMethodSize;
+}
+
+.contact-method .info {
+  flex: 1 1 auto;
+}
+
+.whatsapp-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.whatsapp-content > *:first-child {
+  order: 1;
+  margin-right: 16px;
+}
+.whatsapp-content > *:not(:first-child) {
+  order: 2;
+  margin: 0;
+}
+
+.whatsapp-logo {
+  $size: 64px;
+  background-image: url("/assets/whatsapp-logo.png");
+  background-size: auto $size;
+  height: $size;
+  width: $size;
 }
 
 .map-embed {

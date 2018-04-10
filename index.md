@@ -20,9 +20,6 @@ We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on
 some of the 150+ miles of trails, and drink beer at some of Boulder’s 20+
 breweries. And did we mention blue skies, creek tubing and legal marijuana?
 
-Avoid FOMO.  
-EMAIL FORM
-
 Check out our tentative schedule below. Things may change leading up to the
 event so be sure to check back!
 
@@ -63,12 +60,26 @@ Park on Thursday, we hope you can make it!
 
 ### How do we stay in touch?
 
-RSVP to the official Couchsurfing event
+<div class="contact-methods">
 
-Give us your email. Do it.
-ENTER EMAIL
+<div class="contact-method">
+  <div class="index">1</div>
+  <div class="info">
+    <a href="https://www.couchsurfing.com/events/boulder-couch-crash-2018">
+      RSVP to the official Couchsurfing event.
+    </a>
+  </div>
+</div>
 
-Join the Boulder Couch Crash Whatsapp group to stay in touch during the events.
+<div class="contact-method">
+  <div class="index">2</div>
+  <div class="whatsapp-content">
+    <div class="whatsapp-logo" alt="WhatsApp logo"></div>
+    <p>Join the whatsapp group<br/>to stay in touch during the events.</p>
+  </div>
+</div>
+
+</div>
 
 ### How do I get to Boulder? {#getting-to-boulder}
 
