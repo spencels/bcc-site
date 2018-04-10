@@ -3,25 +3,17 @@ layout: default
 title: Boulder Couch Crash 2018
 subtitle: 'July 19–22, 2018'
 ---
-After a five-year hiatus the Boulder Couch Crash is back, so pack your
-Chacos, puffy, some plaid and sunscreen, and visit the happiest city in the
-U.S.!
+After a five-year hiatus the Boulder Couch Crash is back, so pack your Chacos, puffy, some plaid and sunscreen, and visit the happiest city in the U.S.!
 
 ### What is a couch crash?
 
-A couch crash is a weekend filled with activities organized by a local
-Couchsurfing community. The activities show off the local city to the global
-CS community. A couch crash is an excellent way to get to know a city and
-connect with amazing Couchsurfers.
+A couch crash is a weekend filled with activities organized by a local Couchsurfing community. The activities show off the local city to the global CS community. A couch crash is an excellent way to get to know a city and connect with amazing Couchsurfers.
 
 ### What does the Boulder Couch Crash have to offer? {#schedule}
 
-We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on
-some of the 150+ miles of trails, and drink beer at some of Boulder’s 20+
-breweries. And did we mention blue skies, creek tubing and legal marijuana?
+We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on some of the 150+ miles of trails, and drink beer at some of Boulder’s 20+ breweries. And did we mention blue skies, creek tubing and legal marijuana?
 
-Check out our tentative schedule below. Things may change leading up to the
-event so be sure to check back!
+Check out our tentative schedule below. Things may change leading up to the event so be sure to check back!
 
 #### THURSDAY JULY 19
 11 am Early Bird Day Trip to Rocky Mountain National Park
@@ -53,10 +45,7 @@ Beer tasting/tour at Avery Brewing
 
 ### When is it?
 
-You’re welcome to pop into town any time you like, but our organized events
-will be taking place Thursday, July 19, 2018 through Sunday, July 22, 2018.
-The itinerary includes an early bird field trip to Rocky Mountain National
-Park on Thursday, we hope you can make it!
+You’re welcome to pop into town any time you like, but our organized events will be taking place Thursday, July 19, 2018 through Sunday, July 22, 2018. The itinerary includes an early bird field trip to Rocky Mountain National Park on Thursday, we hope you can make it!
 
 ### How do we stay in touch?
 
@@ -83,19 +72,11 @@ Park on Thursday, we hope you can make it!
 
 ### How do I get to Boulder? {#getting-to-boulder}
 
-Depending on where you’re coming from, you can walk, run, bike, hitchhike,
-drive, or fly. But seriously, book your flight to Denver International
-Airport and then catch the bus to Boulder. The AB bus is the cheapest and
-simplest way to get from the airport to Boulder; it runs approximately every
-half hour but you can check the full schedule here.
+Depending on where you’re coming from, you can walk, run, bike, hitchhike, drive, or fly. But seriously, book your flight to Denver International Airport and then catch the bus to Boulder. The AB bus is the cheapest and simplest way to get from the airport to Boulder; it runs approximately every half hour but you can check the full schedule here.
 
-When catching the bus from the airport, head to the DEN Transit Center — go
-to the south end of the Jeppesen Terminal, exit through the glass doors, and
-take the escalator to the ground level. It’s located next to the Westin.
+When catching the bus from the airport, head to the DEN Transit Center — go to the south end of the Jeppesen Terminal, exit through the glass doors, and take the escalator to the ground level. It’s located next to the Westin.
 
-Look for the AB/AB1/AB2 bus to Boulder. One-way fare is $9 and you must have
-exact change. The bus will take about an hour. If you get off at the last
-stop, you’ll be here:
+Look for the AB/AB1/AB2 bus to Boulder. One-way fare is $9 and you must have exact change. The bus will take about an hour. If you get off at the last stop, you’ll be here:
 
 <iframe
     class="map-embed"
