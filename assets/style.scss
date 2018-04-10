@@ -139,26 +139,3 @@ h4 {
   max-width: 600px;
   width: 100%;
 }
-
-.organizer {
-  height: 150px;
-  margin-top: 32px;
-  margin-bottom: 32px;
-  margin-right: 32px;
-  display: flex;
-  flex-direction: row;
-}
-
-.organizer img {
-  width: 150px;
-  height: 150px;
-  margin-right: 64px;
-  order: 0;
-}
-
-.organizer-content {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  order: 1;
-}

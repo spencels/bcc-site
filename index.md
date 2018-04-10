@@ -105,19 +105,3 @@ Uber and Lyft rides are readily available in Boulder. Check both apps if you wan
 
 #### Car
 Depending on afternoon traffic, driving could take longer than biking. Plus, if you want to park near downtown, you’ll have to pay for a garage or feed the meter every two hours. Driving is not encouraged, especially if you want to enjoy 7.5% IPAs or legal marijuana. That said, if you plan to visit anywhere outside of Boulder aside from Denver, the most convenient way to get there is by car.
-
-### Organizers {#organizers}
-
-<div class="organizer">
-  <img src="/imageuploads/28164383_10215322765563537_4979332061221184867_o.jpg" alt="Spencer 1">
-  <div class="organizer-content">
-    <p>Spencer Stephens is a kind individual whose hobbies include hosting couch crashes and making websites for free.</p>
-  </div>
-</div>
-
-<div class="organizer">
-  <img src="/imageuploads/28164383_10215322765563537_4979332061221184867_o.jpg" alt="Spencer 2">
-  <div class="organizer-content">
-    <p>Spencer 2 is a hipster who likes woodworking and fucking Spencer 1's girlfriend.</p>
-  </div>
-</div>
