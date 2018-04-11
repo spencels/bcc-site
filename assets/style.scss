@@ -25,7 +25,7 @@ main {
   padding: 0 16px;
 }
 
-.content > p {
+p {
   margin-bottom: 16px;
   margin-top: 0;
   color: $mainTextColor;
@@ -70,7 +70,7 @@ h3 {
 }
 
 h4 {
-  font-size: 16px;
+  font-size: 18px;
   margin-top: 0;
   margin-bottom: 0;
   color: #666666;
@@ -139,4 +139,27 @@ h4 {
   margin: 0 auto 16px auto;
   max-width: 600px;
   width: 100%;
+}
+
+.transport {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 8px;
+}
+
+.transport .icon-container {
+  margin-right: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.transport .icon-container img {
+  $size: 100px;
+  width: $size;
+  height: $size;
+}
+
+.transport .text {
+  height: 100%;
 }
