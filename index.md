@@ -63,7 +63,7 @@ You’re welcome to pop into town any time you like, but our organized events wi
 <div class="contact-method">
   <div class="index">2</div>
   <div class="whatsapp-content">
-    <div class="whatsapp-logo" alt="WhatsApp logo"></div>
+    <div class="whatsapp-logo" aria-role="image" aria-label="WhatsApp logo"></div>
     <p>Join the whatsapp group<br/>to stay in touch during the events.</p>
   </div>
 </div>
@@ -81,6 +81,7 @@ Look for the AB/AB1/AB2 bus to Boulder. One-way fare is $9 and you must have exa
 <iframe
     class="map-embed"
     style="border: 0;"
+    aria-label="Map of Downtown Boulder station"
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24446.906747955483!2d-105.28140612224962!3d40.011499976028574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876bec28bedcb659%3A0x5070a558deeeb1ed!2sDowntown+Boulder+Station!5e0!3m2!1sen!2sus!4v1518495355476"
     width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen">
   <span
@@ -93,7 +94,7 @@ Look for the AB/AB1/AB2 bus to Boulder. One-way fare is $9 and you must have exa
 Our little town is incredibly bike- and pedestrian-friendly!
 
 <div class="transport">
-<div class="icon-container"><img src="/assets/bike.jpg"></div>
+<div class="icon-container"><img aria-hidden src="/assets/bike.jpg"></div>
 <div class="text">
   <h4>Bike</h4>
   <p>We have over 300 miles of dedicated bikeways to get you where you need to go, making a bicycle the preferred transportation method of Boulderites no matter what the weather. You can rent bikes from places like University Cycle or Full Cycle starting at $20 per day. If you want something cheaper, Boulder BCycle has 43 stations and 300 bikes in town with various fee structures.</p>
@@ -102,7 +103,9 @@ Our little town is incredibly bike- and pedestrian-friendly!
 </div>
 
 <div class="transport">
-<div class="icon-container"><img src="/assets/bike.jpg"></div>
+<div class="icon-container">
+  <img aria-label="Bike" src="/assets/bike.jpg">
+</div>
 <div class="text">
   <h4>Bus</h4>
   <p>We have about 12 local bus routes that run through town. A local single day pass costs $5.20. The bus is convenient and frequently used by locals. Check the RTD website for schedules and routes, or use Google Maps for equally accurate information, including real-time bus locations.</p>
@@ -110,7 +113,9 @@ Our little town is incredibly bike- and pedestrian-friendly!
 </div>
 
 <div class="transport">
-<div class="icon-container"><img src="/assets/bike.jpg"></div>
+<div class="icon-container">
+  <img aria-label="Ride share" src="/assets/bike.jpg">
+</div>
 <div class="text">
   <h4>Ride shares</h4>
   <p>Uber and Lyft rides are readily available in Boulder. Check both apps if you want the cheapest price. Most rides within Boulder will be $12 or less.</p>
@@ -118,7 +123,8 @@ Our little town is incredibly bike- and pedestrian-friendly!
 </div>
 
 <div class="transport">
-<div class="icon-container"><img src="/assets/bike.jpg"></div>
+<div class="icon-container">
+  <img aria-label="Car" src="/assets/bike.jpg">
 <div class="text">
   <h4>Car</h4>
   <p>Depending on afternoon traffic, driving could take longer than biking. Plus, if you want to park near downtown, you’ll have to pay for a garage or feed the meter every two hours. Driving is not encouraged, especially if you want to enjoy 7.5% IPAs or legal marijuana. That said, if you plan to visit anywhere outside of Boulder aside from Denver, the most convenient way to get there is by car.</p>

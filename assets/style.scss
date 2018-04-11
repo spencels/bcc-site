@@ -6,6 +6,10 @@
  * Version: 0.1
  */
 
+ @mixin mobile() {
+   @media only screen and (max-width: 481px) { @content }
+ }
+
  $mainTextColor: #666666;
 
  * {
@@ -44,6 +48,10 @@ hr {
   background-position: center center;
   height: 360px;
   width: 100%;
+
+  @include mobile() {
+    height: 240px;
+  }
 }
 
 /* Title */
@@ -118,8 +126,12 @@ h4 {
 }
 
 .whatsapp-content > *:first-child {
+  flex: 0 0 auto;
   order: 1;
   margin-right: 16px;
+  @include mobile() {
+    margin-right: 8px;
+  }
 }
 .whatsapp-content > *:not(:first-child) {
   order: 2;
@@ -132,6 +144,13 @@ h4 {
   background-size: auto $size;
   height: $size;
   width: $size;
+
+  @include mobile() {
+    $size: 32px;
+    background-size: auto $size;
+    height: $size;
+    width: $size;
+  }
 }
 
 .map-embed {
@@ -139,12 +158,20 @@ h4 {
   margin: 0 auto 16px auto;
   max-width: 600px;
   width: 100%;
+
+  @include mobile() {
+    height: 380px;
+  }
 }
 
 .transport {
   display: flex;
   flex-direction: row;
   margin-bottom: 8px;
+
+  @include mobile() {
+    display: block;
+  }
 }
 
 .transport .icon-container {
@@ -152,12 +179,25 @@ h4 {
   display: flex;
   flex-direction: column;
   justify-content: center;
+
+  @include mobile() {
+    display: block;
+    float: right;
+    margin: 8px;
+  }
 }
 
 .transport .icon-container img {
   $size: 100px;
-  width: $size;
   height: $size;
+  width: $size;
+
+  @include mobile() {
+    $size: 75px;
+    margin-top: 16px;
+    height: $size;
+    width: $size;
+  }
 }
 
 .transport .text {
