@@ -125,6 +125,7 @@ Our little town is incredibly bike- and pedestrian-friendly!
 <div class="transport">
 <div class="icon-container">
   <img aria-label="Car" src="/assets/bike.jpg">
+</div>
 <div class="text">
   <h4>Car</h4>
   <p>Depending on afternoon traffic, driving could take longer than biking. Plus, if you want to park near downtown, you’ll have to pay for a garage or feed the meter every two hours. Driving is not encouraged, especially if you want to enjoy 7.5% IPAs or legal marijuana. That said, if you plan to visit anywhere outside of Boulder aside from Denver, the most convenient way to get there is by car.</p>
