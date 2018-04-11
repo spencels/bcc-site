@@ -49,26 +49,26 @@ You’re welcome to pop into town any time you like, but our organized events wi
 
 ### How do we stay in touch?
 
-<div class="contact-methods">
+<ol class="contact-methods">
 
-<div class="contact-method">
+<li class="contact-method">
   <div class="index">1</div>
   <div class="info">
-    <a href="https://www.couchsurfing.com/events/boulder-couch-crash-2018">
-      RSVP to the official Couchsurfing event.
+    <a href="https://www.couchsurfing.com/events/boulder-couch-crash-2018"> RSVP to the official Couchsurfing event.
     </a>
   </div>
-</div>
+</li>
 
-<div class="contact-method">
+<li class="contact-method">
   <div class="index">2</div>
   <div class="whatsapp-content">
     <div class="whatsapp-logo" aria-role="image" aria-label="WhatsApp logo"></div>
-    <p>Join the whatsapp group<br/>to stay in touch during the events.</p>
+    <p>Join the whatsapp group to stay in touch during the events.</p>
   </div>
-</div>
+</li>
 
-</div>
+</ol>
+
 
 ### How do I get to Boulder? {#getting-to-boulder}
 
