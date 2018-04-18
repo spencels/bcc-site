@@ -94,7 +94,9 @@ Look for the AB/AB1/AB2 bus to Boulder. One-way fare is $9 and you must have exa
 Our little town is incredibly bike- and pedestrian-friendly!
 
 <div class="transport">
-<div class="icon-container"><img aria-hidden src="/assets/bike.jpg"></div>
+<div class="icon-container">
+  <img aria-label="Bike" src="/assets/bike-icon.svg">
+</div>
 <div class="text">
   <h4>Bike</h4>
   <p>We have over 300 miles of dedicated bikeways to get you where you need to go, making a bicycle the preferred transportation method of Boulderites no matter what the weather. You can rent bikes from places like University Cycle or Full Cycle starting at $20 per day. If you want something cheaper, Boulder BCycle has 43 stations and 300 bikes in town with various fee structures.</p>
@@ -104,7 +106,7 @@ Our little town is incredibly bike- and pedestrian-friendly!
 
 <div class="transport">
 <div class="icon-container">
-  <img aria-label="Bike" src="/assets/bike.jpg">
+  <img aria-label="Bus" src="/assets/bus-icon.svg">
 </div>
 <div class="text">
   <h4>Bus</h4>
@@ -114,7 +116,7 @@ Our little town is incredibly bike- and pedestrian-friendly!
 
 <div class="transport">
 <div class="icon-container">
-  <img aria-label="Ride share" src="/assets/bike.jpg">
+  <img aria-label="Ride share" src="/assets/ride-share-icon.svg">
 </div>
 <div class="text">
   <h4>Ride shares</h4>
@@ -124,7 +126,7 @@ Our little town is incredibly bike- and pedestrian-friendly!
 
 <div class="transport">
 <div class="icon-container">
-  <img aria-label="Car" src="/assets/bike.jpg">
+  <img aria-label="Car" src="/assets/car-icon.svg">
 </div>
 <div class="text">
   <h4>Car</h4>

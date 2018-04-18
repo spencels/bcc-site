@@ -73,18 +73,6 @@ $headerMobileHeight: 240px;
   }
 }
 
-footer {
-  background-image: url("/assets/alpines.jpg");
-  background-position: center top;
-  background-size: auto 100%;
-  background-repeat: repeat-x;
-  height: 200px;
-
-  @include mobile() {
-    height: 100px;
-  }
-}
-
 /* Title */
 h1 {
   color: black;
@@ -235,4 +223,31 @@ h4 {
 
 .transport .text {
   height: 100%;
+}
+
+footer {
+  width: 100%;
+
+  @include mobile() {
+    display: none;
+  }
+}
+
+.footer-logo {
+  margin: 0 auto;
+  height: $headerMobileHeight;
+  display: block;
+}
+
+.footer-alpines {
+  background-image: url("/assets/footer-image.jpg");
+  background-position: center top;
+  background-size: auto 100%;
+  background-repeat: repeat-x;
+  height: 200px;
+  width: 100%;
+
+  @include mobile() {
+    height: 100px;
+  }
 }

@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
 
 <header>
-  <img class="header-image" aria-label="Image of the flatirons">
+  <div class="header-image" aria-label="Image of the flatirons"></div>
   <img class="logo"
        src="/assets/bcc-logo-light-grey.svg"
        aria-label="Boulder Couch Crash Logo">
@@ -25,10 +25,15 @@
   <h2>{{ page.subtitle }}</h2>
   <hr aria-hidden />
   {{ content }}
-  <hr aria-hidden />
 </main>
 
-<footer aria-label="Image of Alpine trees"></footer>
+<footer>
+  <hr aria-hidden />
+  <img src="/assets/bcc-logo-dark-grey.svg"
+       class="footer-logo"
+       aria-label="Boulder couch crash logo">
+</footer>
+<div class="footer-alpines" aria-label="Image of Alpine trees"></div>
 
 <script type="text/javascript">
   var _paq = _paq || [];
