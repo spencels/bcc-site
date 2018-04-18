@@ -192,6 +192,7 @@ h4 {
 
   @include mobile() {
     display: block;
+    flex-direction: row;
   }
 }
 
@@ -202,9 +203,8 @@ h4 {
   justify-content: center;
 
   @include mobile() {
-    display: block;
-    float: right;
     margin: 8px;
+    align-items: center;
   }
 }
 
