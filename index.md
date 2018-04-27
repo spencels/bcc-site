@@ -16,15 +16,18 @@ We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on so
 Check out our tentative schedule below. Things may change leading up to the event so be sure to check back!
 
 #### THURSDAY JULY 19
+
 11 am Early Bird Day Trip to Rocky Mountain National Park
 7 pm Happy Thursday Bike Ride
 
 #### FRIDAY JULY 20
+
 11 am–4 pm Biking Brewery Tour
 1–3 pm National Center for Atmospheric Research Visit/Short Hike
 6 pm–late Welcome Party
 
 #### SATURDAY JULY 21
+
 9 am–3 pm Long Hike
 9–11 am Farmers’ Market Brunch
 Noon–3 pm Boulder Creek Tubing
@@ -33,12 +36,14 @@ Noon–3 pm B180 Bicycle Tour of Boulder
 5 pm–late Happy Hour Dinner/Art Festival/Downtown Bar Crawl
 
 #### SUNDAY JULY 22
+
 10 am–2 pm Big Brunch Picnic in the Park
 Afternoon Dessert Tour
 Afternoon Yoga
 7 pm Comedy Show
 
 #### Yet to be scheduled, but we’ll squeeze ’em in somewhere:
+
 Laser light show at the Fiske Planetarium
 Dispensary visit/tour
 Beer tasting/tour at Avery Brewing
@@ -63,12 +68,11 @@ You’re welcome to pop into town any time you like, but our organized events wi
   <div class="index">2</div>
   <div class="whatsapp-content">
     <div class="whatsapp-logo" aria-role="image" aria-label="WhatsApp logo"></div>
-    <p>Join the whatsapp group to stay in touch during the events.</p>
+    <p><a href="https://chat.whatsapp.com/JjishKz5CI9HsZPCqMzEPJ">Join the WhatsApp group to stay in touch during the events.</a></p>
   </div>
 </li>
 
 </ol>
-
 
 ### How do I get to Boulder? {#getting-to-boulder}
 
@@ -91,6 +95,7 @@ Look for the AB/AB1/AB2 bus to Boulder. One-way fare is $9 and you must have exa
 </iframe> 
 
 ### How do I get around Boulder?
+
 Our little town is incredibly bike- and pedestrian-friendly!
 
 <div class="transport">
