@@ -3,7 +3,7 @@ layout: default
 title: Boulder Couch Crash 2018
 subtitle: 'July 19–22, 2018'
 ---
-After a five-year hiatus the Boulder Couch Crash is back, so pack your Chacos, puffy, some plaid and sunscreen, and visit the happiest city in the U.S.!
+After a five-year hiatus the Boulder Couch Crash is back, so pack your Chacos, puffy, some plaid and sunscreen, and visit the happiest city in the U.S.!jkfljslk
 
 ### What is a couch crash?
 
