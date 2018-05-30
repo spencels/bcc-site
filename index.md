@@ -5,7 +5,7 @@ subtitle: 'July 19–22, 2018'
 ---
 After a five-year hiatus the Boulder Couch Crash is back, so pack your Chacos, puffy, some plaid and sunscreen, and visit the happiest city in the U.S.!
 
-### What is a couch crash?!
+### What is a couch crash?
 
 A couch crash is a weekend filled with activities organized by a local Couchsurfing community. The activities show off the local city to the global CS community. A couch crash is an excellent way to get to know a city and connect with amazing Couchsurfers.
 
