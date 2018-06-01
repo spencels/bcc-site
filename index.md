@@ -3,7 +3,7 @@ layout: default
 title: Boulder Couch Crash 2018
 subtitle: 'July 19–22, 2018'
 ---
-After a five-year hiatus the Boulder Couch Crash is back, so pack your Chacos, some plaid, and a bottle of sunscreen and visit the happiest city in the U.S.!
+After a five-year hiatus the Boulder Couch Crash is back, so pack your Chacos, some plaid, and a bottle of sunscreen and visit <a href="https://www.nationalgeographic.com/travel/destinations/north-america/united-states/colorado/happiest-city-united-states-boulder-colorado-2017/"> the happiest city in the US! </a>
 
 ### What is a couch crash?
 
@@ -16,37 +16,29 @@ We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on so
 Check out our tentative schedule below. Things may change leading up to the event so be sure to check back!
 
 #### THURSDAY JULY 19
-
-11 am Early Bird Day Trip to Rocky Mountain National Park
-7 pm Happy Thursday Bike Ride
+<p>
+<p>11 am Early Bird Day Trip to Rocky Mountain National Park
+<p>7 pm Happy Thursday Bike Ride
 
 #### FRIDAY JULY 20
-
-11 am–4 pm Biking Brewery Tour
-1–3 pm National Center for Atmospheric Research Visit/Short Hike
-6 pm–late Welcome Party
+<p>
+<p>11 am–4 pm Biking Brewery Tour
+<p>1–3 pm National Center for Atmospheric Research Visit/Short Hike
+<p>6 pm–late Welcome Party
 
 #### SATURDAY JULY 21
-
-9 am–3 pm Long Hike
-9–11 am Farmers’ Market Brunch
-Noon–3 pm Boulder Creek Tubing
-Noon–3 pm B180 Bicycle Tour of Boulder
-1–2:30 pm Celestial Seasonings Tea Factory Tour
-5 pm–late Happy Hour Dinner/Art Festival/Downtown Bar Crawl
+<p>
+<p>9 am–3 pm Long Hike
+<p>9–11 am Farmers’ Market Brunch
+<p>Noon–3 pm Boulder Creek Tubing
+<p>Noon–3 pm B180 Bicycle Tour of Boulder
+<p>1–2:30 pm Celestial Seasonings Tea Factory Tour
+<p>5 pm–late Happy Hour Dinner/Art Festival/Downtown Bar Crawl
 
 #### SUNDAY JULY 22
-
-10 am–2 pm Big Brunch Picnic in the Park
-Afternoon Dessert Tour
-Afternoon Yoga
-7 pm Comedy Show
-
-#### Yet to be scheduled, but we’ll squeeze ’em in somewhere:
-
-Laser light show at the Fiske Planetarium
-Dispensary visit/tour
-Beer tasting/tour at Avery Brewing
+<p>
+<p>11 am–3 pm Big Brunch Picnic in the Park
+<p>6 pm Comedy Show
 
 ### When is it?
 
