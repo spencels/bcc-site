@@ -68,7 +68,7 @@ You’re welcome to pop into town any time you like, but our organized events wi
 
 ### How do I get to Boulder? {#getting-to-boulder}
 
-Depending on where you’re coming from, you can walk, run, bike, hitchhike, drive, or fly. But seriously, book your flight to Denver International Airport and then catch the bus to Boulder. The AB bus is the cheapest and simplest way to get from the airport to Boulder; it runs approximately every half hour but you can check the full schedule here.
+Depending on where you’re coming from, you can walk, run, bike, hitchhike, drive, or fly. But seriously, book your flight to Denver International Airport and then catch the bus to Boulder. The AB bus is the cheapest and simplest way to get from the airport to Boulder; it runs approximately every hour but you can check the full schedule <a href="http://www3.rtd-denver.com/schedules/getSchedule.action?runboardId=2514&routeId=AB&routeType=9&&direction=W-Bound&serviceType=3#direction"> here </a>.
 
 When catching the bus from the airport, head to the DEN Transit Center — go to the south end of the Jeppesen Terminal, exit through the glass doors, and take the escalator to the ground level. It’s located next to the Westin.
 
