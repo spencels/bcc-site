@@ -28,21 +28,31 @@ Check out our tentative schedule below. Things may change leading up to the even
 
 #### SATURDAY JULY 21
 <h4>SATURDAY JULY 21</h4>
-<p>
-<p>9 am–3 pm Long Hike
-<p>9–11 am Farmers’ Market Brunch
-<p>Noon–3 pm Boulder Creek Tubing
-<p>Noon–3 pm B180 Bicycle Tour of Boulder
-<p>1–2:30 pm Celestial Seasonings Tea Factory Tour
-<p>5 pm–late Happy Hour Dinner/Art Festival/Downtown Bar Crawl
+
+<br>9 am–3 pm Long Hike
+
+<br>9–11 am Farmers’ Market Brunch
+
+<br>Noon–3 pm Boulder Creek Tubing
+
+<br>Noon–3 pm B180 Bicycle Tour of Boulder
+
+<br>1–2:30 pm Celestial Seasonings Tea Factory Tour
+
+<br>5 pm–late Happy Hour Dinner/Art Festival/Downtown Bar Crawl
+<br>
 
 #### SUNDAY JULY 22
-<p>
-<p>11 am–3 pm Big Brunch Picnic in the Park
-<p>6 pm Comedy Show
+<br>
+<pre>
 
-<p>
+11 am–3 pm Big Brunch Picnic in the Park
 
+6 pm Comedy Show
+</pre>
+
+
+### Map of Boulder Couch Crash
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wb84vXpnQJ_ksszm5Zy06ZVPCSmTnh0b" width="640" height="480"></iframe>
 
 ### When is it?
