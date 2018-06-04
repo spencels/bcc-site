@@ -48,7 +48,7 @@ Check out our tentative schedule below. Things may change leading up to the even
 
 11 am–3 pm Big Brunch Picnic in the Park
 
-6 pm Comedy Show
+6 pm Comedy Show!
 </pre>
 
 
