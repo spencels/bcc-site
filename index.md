@@ -42,25 +42,24 @@ Check out our tentative schedule below. Things may change leading up to the even
 <br>1–2:30 pm Celestial Seasonings Tea Factory Tour
 
 <br>5 pm–late Happy Hour Dinner/Art Festival/Downtown Bar Crawl
-<br>
 
 #### SUNDAY JULY 22
-<pre>
-11 am–3 pm Big Brunch Picnic in the Park
 
-6 pm Comedy Show!
-</pre>
+<br>11 am–3 pm Big Brunch Picnic in the Park
+
+<br>6 pm Comedy Show!
 
 
 ### Map of Boulder Couch Crash
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wb84vXpnQJ_ksszm5Zy06ZVPCSmTnh0b" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wb84vXpnQJ_ksszm5Zy06ZVPCSmTnh0b" style="display: inline-block; width="640" height="480"></iframe>
 
-<p>
+<br>
 
 ### When is it?
 
 You’re welcome to pop into town any time you like, but our organized events will be taking place Thursday, July 19, 2018 through Sunday, July 22, 2018. The itinerary includes an early bird field trip to Rocky Mountain National Park on Thursday, we hope you can make it!
 
+<br>
 ### How do we stay in touch?
 
 <ol class="contact-methods">
