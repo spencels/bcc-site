@@ -20,13 +20,14 @@ Check out our tentative schedule below. Things may change leading up to the even
 <p>11 am Early Bird Day Trip to Rocky Mountain National Park
 <p>7 pm Happy Thursday Bike Ride
 
-<p>#### FRIDAY JULY 20
+#### FRIDAY JULY 20
 <p>
 <p>11 am–4 pm Biking Brewery Tour
 <p>1–3 pm National Center for Atmospheric Research Visit/Short Hike
 <p>6 pm–late Welcome Party
 
 #### SATURDAY JULY 21
+<h4>SATURDAY JULY 21</h4>
 <p>
 <p>9 am–3 pm Long Hike
 <p>9–11 am Farmers’ Market Brunch
@@ -39,6 +40,10 @@ Check out our tentative schedule below. Things may change leading up to the even
 <p>
 <p>11 am–3 pm Big Brunch Picnic in the Park
 <p>6 pm Comedy Show
+
+<p>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wb84vXpnQJ_ksszm5Zy06ZVPCSmTnh0b" width="640" height="480"></iframe>
 
 ### When is it?
 
