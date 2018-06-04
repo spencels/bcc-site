@@ -16,18 +16,20 @@ We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on so
 Check out our tentative schedule below. Things may change leading up to the event so be sure to check back!
 
 #### THURSDAY JULY 19
-<p>
-<p>11 am Early Bird Day Trip to Rocky Mountain National Park
-<p>7 pm Happy Thursday Bike Ride
+
+<br>11 am Early Bird Day Trip to Rocky Mountain National Park
+
+<br>7 pm Happy Thursday Bike Ride
 
 #### FRIDAY JULY 20
-<p>
-<p>11 am–4 pm Biking Brewery Tour
-<p>1–3 pm National Center for Atmospheric Research Visit/Short Hike
-<p>6 pm–late Welcome Party
+
+<br>11 am–4 pm Biking Brewery Tour
+
+<br>1–3 pm National Center for Atmospheric Research Visit/Short Hike
+
+<br>6 pm–late Welcome Party
 
 #### SATURDAY JULY 21
-<h4>SATURDAY JULY 21</h4>
 
 <br>9 am–3 pm Long Hike
 
@@ -43,9 +45,7 @@ Check out our tentative schedule below. Things may change leading up to the even
 <br>
 
 #### SUNDAY JULY 22
-<br>
 <pre>
-
 11 am–3 pm Big Brunch Picnic in the Park
 
 6 pm Comedy Show!
@@ -54,6 +54,8 @@ Check out our tentative schedule below. Things may change leading up to the even
 
 ### Map of Boulder Couch Crash
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wb84vXpnQJ_ksszm5Zy06ZVPCSmTnh0b" width="640" height="480"></iframe>
+
+<p>
 
 ### When is it?
 
