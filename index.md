@@ -51,7 +51,7 @@ Check out our tentative schedule below. Things may change leading up to the even
 
 
 ### Map of Boulder Couch Crash
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wb84vXpnQJ_ksszm5Zy06ZVPCSmTnh0b" style="display: inline-block; width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wb84vXpnQJ_ksszm5Zy06ZVPCSmTnh0b" width="640" height="480"></iframe>
 
 <br>
 
