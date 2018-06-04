@@ -20,7 +20,7 @@ Check out our tentative schedule below. Things may change leading up to the even
 <p>11 am Early Bird Day Trip to Rocky Mountain National Park
 <p>7 pm Happy Thursday Bike Ride
 
-#### FRIDAY JULY 20
+<p>#### FRIDAY JULY 20
 <p>
 <p>11 am–4 pm Biking Brewery Tour
 <p>1–3 pm National Center for Atmospheric Research Visit/Short Hike
