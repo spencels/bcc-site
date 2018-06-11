@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Boulder Couch Crash 2018
+title: Boulder Couch Crash 2018 565
 subtitle: 'July 19–22, 2018'
 ---
 After a five-year hiatus the Boulder Couch Crash is back, so pack your Chacos, some plaid, and a bottle of sunscreen and visit <a href="https://www.nationalgeographic.com/travel/destinations/north-america/united-states/colorado/happiest-city-united-states-boulder-colorado-2017/"> the happiest city in the US! </a>
