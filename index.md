@@ -5,6 +5,13 @@ subtitle: 'July 19–22, 2018'
 ---
 After a five-year hiatus the Boulder Couch Crash is back, so pack your Chacos, some plaid, and a bottle of sunscreen and visit <a href="https://www.nationalgeographic.com/travel/destinations/north-america/united-states/colorado/happiest-city-united-states-boulder-colorado-2017/"> the happiest city in the US! </a>
 
+### Latest news & updates
+#### June 11
+BCC shirts are now on sale until 7/2. Order yours today <a href="https://goo.gl/forms/HMJBrFtyoDoo4FBh2"> through this link! </a>
+<br>
+<br>
+
+
 ### What is a couch crash?
 
 A couch crash is a weekend filled with activities organized by a local Couchsurfing community. The activities show off the local city to the global CS community. A couch crash is an excellent way to get to know a city and connect with amazing Couchsurfers.
@@ -37,11 +44,13 @@ Check out the most current schedule below. Things may change leading up to the e
 
 <br>11-11:20am Meet at the Central Park Band Shell
 
+Take your pick!
 <br>11:30-2pm Scenic Hike
 <br>11:30-2pm Celestial Seasonings Tea Factory Tour
 
 <br>2-2:20pm Meet at the Central Park Band Shell
 
+Take your pick!
 <br>2:30-6pm B180 Bicycle Tour of Boulder
 <br>2:30-6pm Avery Brewing Visit
 <br>2:30-6pm Tube Boulder Creek
