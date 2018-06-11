@@ -13,41 +13,47 @@ A couch crash is a weekend filled with activities organized by a local Couchsurf
 
 We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on some of the 150+ miles of trails, and drink beer at some of Boulder’s 20+ breweries. And did we mention blue skies, creek tubing and legal marijuana?
 
-Check out our tentative schedule below. Things may change leading up to the event so be sure to check back!
+Check out the most current schedule below. Things may change leading up to the event so be sure to check back!
+
 
 #### THURSDAY JULY 19
+<br>9am & 12pm Early Bird Day Trip to Rocky Mountain National Park (separate cars will depart in the morning and early afternoon)
 
-<br>11 am Early Bird Day Trip to Rocky Mountain National Park
-
-<br>7 pm Happy Thursday Bike Ride
+<br>6:30pm Happy Thursday Bike Ride
 
 #### FRIDAY JULY 20
+<br>9-11am Breakfast at Snooze
 
-<br>11 am–4 pm Biking Brewery Tour
+<br>11:30am–5pm Biking Brewery Tour
 
-<br>1–3 pm National Center for Atmospheric Research Visit/Short Hike
+<br>1–3pm National Center for Atmospheric Research Visit/Short Hike
 
-<br>6 pm–late Welcome Party
+<br>7pm–Late Welcome Party at the World Famous Dark Horse
 
 #### SATURDAY JULY 21
+<br>9am–2pm Serious Hike
 
-<br>9 am–3 pm Long Hike
+<br>9–11am Farmers’ Market Brunch
 
-<br>9–11 am Farmers’ Market Brunch
+<br>11-11:20am Meet at the Central Park Band Shell
 
-<br>Noon–3 pm Boulder Creek Tubing
+<br>11:30-2pm Scenic Hike
+<br>11:30-2pm Celestial Seasonings Tea Factory Tour
 
-<br>Noon–3 pm B180 Bicycle Tour of Boulder
+<br>2-2:20pm Meet at the Central Park Band Shell
 
-<br>1–2:30 pm Celestial Seasonings Tea Factory Tour
+<br>2:30-6pm B180 Bicycle Tour of Boulder
+<br>2:30-6pm Avery Brewing Visit
+<br>2:30-6pm Tube Boulder Creek
 
-<br>5 pm–late Happy Hour Dinner/Art Festival/Downtown Bar Crawl
+<br>7-9:30pm Dinner and Drinks at the Rayback Collective
+
+<br>10pm-Late Pearl Street Bar Bounce
 
 #### SUNDAY JULY 22
+<br>11am–3pm Picnic in the Park
 
-<br>11 am–3 pm Big Brunch Picnic in the Park
-
-<br>6 pm Comedy Show!
+<br>6pm Comedy Show at Bohemian Biergarten
 
 
 ### Map of Boulder Couch Crash
