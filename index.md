@@ -22,48 +22,32 @@ We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on so
 
 Check out the most current schedule below. Things may change leading up to the event so be sure to check back!
 
-
 #### THURSDAY JULY 19
-<br>9am & 12pm Early Bird Day Trip to Rocky Mountain National Park (separate cars will depart in the morning and early afternoon)
-
+<br>9am & 12pm Early Bird Day Trip to Rocky Mountain National Park (cars will depart in the morning and early afternoon)
 <br>6:30pm Happy Thursday Bike Ride
 
 #### FRIDAY JULY 20
 <br>9-11am Breakfast at Snooze
-
 <br>11:30am–5pm Biking Brewery Tour
-
 <br>1–3pm National Center for Atmospheric Research Visit/Short Hike
-
 <br>7pm–Late Welcome Party at the World Famous Dark Horse
 
 #### SATURDAY JULY 21
 <br>9am–2pm Serious Hike
-
 <br>9–11am Farmers’ Market Brunch
-
 <br>11-11:20am Meet at the Central Park Band Shell
-
-Take your pick!
 <br>11:30-2pm Scenic Hike
 <br>11:30-2pm Celestial Seasonings Tea Factory Tour
-
-<br>2-2:20pm Meet at the Central Park Band Shell
-
-Take your pick!
 <br>2:30-6pm B180 Bicycle Tour of Boulder
 <br>2:30-6pm Avery Brewing Visit
 <br>2:30-6pm Tube Boulder Creek
-
 <br>7-9:30pm Dinner and Drinks at the Rayback Collective
-
 <br>10pm-Late Pearl Street Bar Bounce
 
 #### SUNDAY JULY 22
 <br>11am–3pm Picnic in the Park
-
 <br>6pm Comedy Show at Bohemian Biergarten
-
+0
 
 ### Map of Boulder Couch Crash
 This map shows you all event locations around town. Click the button in the top left to display all the map layers. Click the button in the top right to open in Google Maps.
