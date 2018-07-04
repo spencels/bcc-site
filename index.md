@@ -146,3 +146,15 @@ Our little town is incredibly bike- and pedestrian-friendly!
   <p>Depending on afternoon traffic, driving could take longer than biking. Plus, if you want to park near downtown, you’ll have to pay for a garage or feed the meter every two hours. Driving is not encouraged, especially if you want to enjoy 7.5% IPAs or legal marijuana. That said, if you plan to visit anywhere outside of Boulder aside from Denver, the most convenient way to get there is by car.</p>
 </div>
 </div>
+
+### Boulder Couch Crash Checklist {#checklist}
+Don't forget these things when you're preparing for the couch crash!
+* **Passport** or **Current US State ID**. Age-restricted venues will accept a current US state-issued driver’s license or state ID or an official current passport. They **do not** accept foreign driver’s licenses or vertical IDs. If you have a temporary US driver’s license or state ID, bring the old one and the new temporary one.
+* **RSVP** on Couchsurfing.com to Boulder Couchcrash events.
+* **Sunscreen!** E V E R Y O N E needs sunscreen here, even if you never burn. The atmosphere's a lot thinner up here, which gives you less protection from the sun's harmful UV rays.
+* **Dress in layers**. Pack for hot and cool (but not freezing) temperatures. Bring rain gear for afternoon storms. Hats come in handy, too. Weather in the mountains changes often and without warning.
+Water bottle. Staying hydrated is the key to avoiding altitude sickness.
+* **Bicycle and helmet**. Biking is the Boulder-iest method of transportation. You can also rent a bike in Boulder.
+* **Phone, phone charger, and extra battery**. Don’t run out of juice away from home.
+* **The Essentials**. Toothbrush, toothpaste, soap, towel, cash, floss, clothes, fuzzy socks, whatever you need to survive.
+* A positive attitude. Let’s have fun! YAY!
