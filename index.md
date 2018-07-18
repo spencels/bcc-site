@@ -6,6 +6,14 @@ subtitle: 'July 19–22, 2018'
 After a five-year hiatus the Boulder Couch Crash is back, so pack your Chacos, some plaid, and a bottle of sunscreen and visit <a href="https://www.nationalgeographic.com/travel/destinations/north-america/united-states/colorado/happiest-city-united-states-boulder-colorado-2017/"> the happiest city in the US! </a>
 
 ### Latest news & updates
+#### July 11
+If you're still looking for a host please make a Public Trip and keep sending out requests! Also look for hosts in the nearby towns of Louisville, Superior, Lafayette, Gunbarrel, and Longmont.
+
+#### July 8
+Boulder Couch Crash tees/tanks are still available at $15/18: https://goo.gl/p7tLa1. Get em while supplies last!
+
+#### July 1
+24 hours left to order your awesome BCC shirt! Use the form: https://goo.gl/p7tLa1 Thanks for supporting the Boulder Couch Crash!
 #### June 11
 BCC shirts are now on sale until 7/2. Order yours today <a href="https://goo.gl/forms/HMJBrFtyoDoo4FBh2"> through this link! </a>
 <br>
@@ -23,7 +31,7 @@ We will bike on some of Boulder’s 300+ miles of dedicated bikeways, hike on so
 Check out the most current schedule below. Things may change leading up to the event so be sure to check back!
 
 #### THURSDAY JULY 19
-<br>9am & 12pm Early Bird Day Trip to Rocky Mountain National Park (cars will depart in the morning and early afternoon)
+<br>9:30am & 12pm Early Bird Day Trip to Rocky Mountain National Park (cars will depart in the morning and early afternoon)
 <br>6:30pm Happy Thursday Bike Ride
 
 #### FRIDAY JULY 20
@@ -35,19 +43,19 @@ Check out the most current schedule below. Things may change leading up to the e
 #### SATURDAY JULY 21
 <br>9am–2pm Serious Hike
 <br>9–11am Farmers’ Market Brunch
-<br>11-11:20am Meet at the Central Park Band Shell
+<br>11-11:20am Gather at the Central Park Band Shell
 <br>11:30-2pm Scenic Hike
 <br>11:30-2pm Celestial Seasonings Tea Factory Tour
-<br>2:30-6pm B180 Bicycle Tour of Boulder
+<br>2:30-6pm Tour of Boulder Bike Ride
 <br>2:30-6pm Avery Brewing Visit
-<br>2:30-6pm Tube Boulder Creek
+<br>2:30-6pm Tube Boulder Creek. *Please note: this event is extremely dependent on current creek conditions.*
 <br>7-9:30pm Dinner and Drinks at the Rayback Collective
-<br>10pm-Late Pearl Street Bar Bounce
+<br>10pm-*Late* Pearl Street Bar Bounce
 
 #### SUNDAY JULY 22
-<br>11am–3pm Picnic in the Park
-<br>6pm Comedy Show at Bohemian Biergarten
-0
+<br>11am–2pm Picnic in the Park
+<br>2:30-4:30pm Sweet Cow Ice Cream Social
+<br>*Later on Sunday* Impromptu activities organized by those with energy left :)
 
 ### Map of Boulder Couch Crash
 This map shows you all event locations around town. Click the button in the top left to display all the map layers. Click the button in the top right to open in Google Maps.
